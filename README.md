@@ -1,23 +1,23 @@
-# Library Circulation Data Service MVP (Synthetic) — Main
+# Library Circulation Data Service MVP  — Main
 
 ## Goal
 Build a reusable library circulation analytics & training package using synthetic data for the Main library.
 
 ## Scope
-- Location: Main only
+- Location: Main library
 - Time range: 2024-01-01 to 2025-12-31
 - Tables: items, patrons, circulation_transactions, holds (synthetic)
 
 ## Deliverables (MVP)
 - 01_make_synthetic_data.ipynb: generate data + baseline KPIs
 - data_dictionary.md: schema + definitions
-- (Next) viz clinic notebook, light forecast, python workshop kit, outreach/web resources
+- viz clinic notebook, light forecast, python workshop kit, outreach/web resources
 
 ## Privacy
 All data is synthetic and contains no PII.
 
 
-## Results — Main (Synthetic, 24 months)
+## Results — Main (24 months)
 
 **Overall KPIs**
 - Transactions: 20,000
